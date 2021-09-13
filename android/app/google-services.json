@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752535840385",
+    "project_id": "restaurantdelivery-436af",
+    "storage_bucket": "restaurantdelivery-436af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752535840385:android:8de0d24ee4c0c0bf2a0f80",
+        "android_client_info": {
+          "package_name": "com.example.calebrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752535840385-vlc6mqtgpf8odocm4d7qiml3h5q3ff1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calebrestaurant",
+            "certificate_hash": "94bb08fc70b16cf6dadd6c5562e32daef5851509"
+          }
+        },
+        {
+          "client_id": "752535840385-cpt4b9q15j8knq5dcc6jhtpgmpatmrd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmT0D_bJXvHxa15hPVKrcsdRD02rLWMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752535840385-cpt4b9q15j8knq5dcc6jhtpgmpatmrd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
